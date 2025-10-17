@@ -17,5 +17,26 @@
    ## 1. BUSINESS COMMUNICATION
 
    ### EVIDENCE
-   [View Business Communication Document]
-   
+   ## View Business Communication Document
+   <img width="1250" height="434" alt="image" src="https://github.com/user-attachments/assets/e5654422-6b48-45b7-9f1e-ebb378e81e4e" />
+
+   ##  STAR Reflection: Balancing Academic and Professional Commitments
+
+### **S – Situation**  
+As a Co-Op Student at [Company Name], I was simultaneously enrolled in academic modules that resumed on **14 July 2025**. This created a scheduling conflict with my usual in-office responsibilities on Mondays.
+
+### **T – Task**  
+I needed to **communicate this change professionally** to my team and ensure that my academic obligations were respected without compromising my responsibilities at work.
+
+### **A – Action**  
+I proactively informed my managers, **Xhanti Mkungeki** and **Rudzani Shupping**, about my updated schedule. I then followed up with a formal email to **Lihle Mciteka**, clearly explaining the situation and attaching my **WIL (Work Integrated Learning) letter** as official proof of my academic commitment.
+
+### **R – Result**  
+This transparent communication helped maintain trust and accountability with my team. It also ensured that my academic needs were accommodated while keeping my professional responsibilities aligned. The experience strengthened my skills in **professional communication, time management, and self-advocacy**.
+
+---
+
+## 2. INTERVIEW SKILLS
+
+
+
