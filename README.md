@@ -20,7 +20,7 @@
    ## View Business Communication Document
    <img width="1250" height="434" alt="image" src="https://github.com/user-attachments/assets/e5654422-6b48-45b7-9f1e-ebb378e81e4e" />
 
-   ##  STAR Reflection
+   ##  Reflection (STAR Technique)
 
 ### **S – Situation:**  
 As a Co-Op Student at Woolworths, I was simultaneously enrolled in academic modules that resumed on **14 July 2025**. This created a scheduling conflict with my usual in-office responsibilities on Mondays.
@@ -49,7 +49,7 @@ This transparent communication helped maintain trust and accountability with my 
 ###  Reflection (STAR Technique)
 
 ### **S - Situation:**  
-During the Work Readiness Training, I participated in an interview preparation session that focused on developing professional interview skills for the IT industry. We were guided on how to respond effectively to both technical and behavioral questions, such as describing our strengths, weaknesses, and technical projects.  
+During the **Work Readiness Training**, I participated in an interview preparation session that focused on developing professional interview skills for the **IT industry**. We were guided on how to respond effectively to both technical and behavioral questions, such as describing our **strengths**, **weaknesses**, and **technical projects**.  
 
 ### **T - Task:**  
 My goal was to prepare myself for real-world job interviews by learning how to confidently discuss my experience, technical abilities, and problem-solving approach. I also wanted to ensure my **Curriculum Vitae** and communication style reflected professionalism and clarity.  
