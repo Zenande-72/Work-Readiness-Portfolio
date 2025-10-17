@@ -38,5 +38,16 @@ This transparent communication helped maintain trust and accountability with my 
 
 ## 2. INTERVIEW SKILLS
 
+### EVIDENCE 
+## View Curriculumn Vitae
+[Zenande_Kalipa_Curriculumn_Vitae[1].pdf](https://github.com/user-attachments/files/22979755/Zenande_Kalipa_Curriculumn_Vitae.1.pdf)
+
+
+## View interview preparation material
+<img width="284" height="383" alt="image" src="https://github.com/user-attachments/assets/3eedef43-0e4e-48b9-9795-295efca0bc80" />
+<img width="287" height="427" alt="image" src="https://github.com/user-attachments/assets/d8b4894f-b073-418a-a566-4803e46ea1bc" />
+
+
+
 
 
