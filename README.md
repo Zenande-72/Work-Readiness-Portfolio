@@ -20,7 +20,7 @@
    ## View Business Communication Document
    <img width="1250" height="434" alt="image" src="https://github.com/user-attachments/assets/e5654422-6b48-45b7-9f1e-ebb378e81e4e" />
 
-   ##  STAR Reflection: Balancing Academic and Professional Commitments
+   ##  STAR Reflection
 
 ### **S – Situation**  
 As a Co-Op Student at [Company Name], I was simultaneously enrolled in academic modules that resumed on **14 July 2025**. This created a scheduling conflict with my usual in-office responsibilities on Mondays.
@@ -45,6 +45,26 @@ This transparent communication helped maintain trust and accountability with my 
 ## View interview preparation material
 <img width="284" height="383" alt="image" src="https://github.com/user-attachments/assets/3eedef43-0e4e-48b9-9795-295efca0bc80" />
 <img width="287" height="427" alt="image" src="https://github.com/user-attachments/assets/d8b4894f-b073-418a-a566-4803e46ea1bc" />
+
+###  Reflection (STAR Technique)
+
+### **S - Situation:**  
+During the Work Readiness Training, I participated in an interview preparation session that focused on developing professional interview skills for the IT industry. We were guided on how to respond effectively to both technical and behavioral questions, such as describing our strengths, weaknesses, and technical projects.  
+
+### **T - Task:**  
+My goal was to prepare myself for real-world job interviews by learning how to confidently discuss my experience, technical abilities, and problem-solving approach. I also wanted to ensure my **Curriculum Vitae** and communication style reflected professionalism and clarity.  
+
+### **A - Action:**  
+I reviewed my CV and tailored it to emphasize my IT skills, programming experience, and teamwork involvement in university projects. To prepare for interviews, I practiced answering common questions like *“Tell me about yourself”* and *“Describe a technical problem you solved”* using the **STAR method** (Situation, Task, Action, Result). I also studied questions on teamwork, problem-solving, and adaptability to ensure I could provide structured, confident responses.  
+
+### **R - Result:**  
+Through this process, I gained confidence in expressing my experiences clearly and professionally. I learned how to organize my responses using STAR, highlight my technical achievements, and maintain a positive and composed presence during interviews. This preparation improved both my communication and self-awareness, making me feel more prepared for future internship and graduate opportunities.  
+
+
+## 3. MOCK INTERVIEW
+
+### EVIDENCE
+### View 
 
 
 
