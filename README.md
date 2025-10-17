@@ -61,11 +61,7 @@ I reviewed my CV and tailored it to emphasize my IT skills, programming experien
 Through this process, I gained confidence in expressing my experiences clearly and professionally. I learned how to organize my responses using STAR, highlight my technical achievements, and maintain a positive and composed presence during interviews. This preparation improved both my communication and self-awareness, making me feel more prepared for future internship and graduate opportunities.  
 
 
-## 3. MOCK INTERVIEW
-
-### EVIDENCE
-### View 
-
+## 3. MOCK INTERVIEW 
 
 ### Reflection (STAR Technique)
 
