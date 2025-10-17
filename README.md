@@ -22,16 +22,16 @@
 
    ##  STAR Reflection
 
-### **S – Situation**  
-As a Co-Op Student at [Company Name], I was simultaneously enrolled in academic modules that resumed on **14 July 2025**. This created a scheduling conflict with my usual in-office responsibilities on Mondays.
+### **S – Situation:**  
+As a Co-Op Student at Woolworths, I was simultaneously enrolled in academic modules that resumed on **14 July 2025**. This created a scheduling conflict with my usual in-office responsibilities on Mondays.
 
-### **T – Task**  
+### **T – Task:**  
 I needed to **communicate this change professionally** to my team and ensure that my academic obligations were respected without compromising my responsibilities at work.
 
-### **A – Action**  
+### **A – Action:**  
 I proactively informed my managers, **Xhanti Mkungeki** and **Rudzani Shupping**, about my updated schedule. I then followed up with a formal email to **Lihle Mciteka**, clearly explaining the situation and attaching my **WIL (Work Integrated Learning) letter** as official proof of my academic commitment.
 
-### **R – Result**  
+### **R – Result:**  
 This transparent communication helped maintain trust and accountability with my team. It also ensured that my academic needs were accommodated while keeping my professional responsibilities aligned. The experience strengthened my skills in **professional communication, time management, and self-advocacy**.
 
 ---
@@ -67,26 +67,74 @@ Through this process, I gained confidence in expressing my experiences clearly a
 ### View 
 
 
+### Reflection (STAR Technique)
 
+### S - Situation:
+As part of the Work Readiness Training, I participated in a mock interview designed to simulate a real job interview environment. The goal was to test my ability to communicate professionally, answer questions confidently, and demonstrate my understanding of workplace expectations.
 
+### T - Task:
+My task was to apply the interview techniques I had learned — such as body language, tone of voice, and structured responses using the STAR method — while presenting myself as a strong candidate for an entry-level IT position.
 
+### A - Action:
+Before the interview, I reviewed my CV, rehearsed common interview questions, and practiced explaining my technical skills and previous projects clearly. During the mock interview, I focused on maintaining good eye contact, listening carefully to each question, and responding with confidence. I also ensured that I linked my answers to real experiences, such as group projects and problem-solving tasks from university. Afterward, I received constructive feedback from the facilitator on areas like clarity, pacing, and posture.
 
-
-
-
-
-
-
-
-
-
-
-## 4️⃣ Professional Networking
-
-### 🧾 Evidence
-
+### R - Result:
+This experience significantly improved my self-confidence and interview readiness. I learned how to handle unexpected questions calmly, structure my answers effectively, and communicate my strengths in a professional manner. The feedback I received helped me refine my presentation and interpersonal skills, which will be valuable in future internship and job interviews.
 
 ---
+
+## 4️. PROFESSIONAL NETWORKING 
+
+###  Evidence
+### View LinkedIn profile:
+http://www.linkedin.com/in/zenande-kalipa-820164275
+
+### Reflection (STAR Technique)
+
+### S - Situation:
+As part of the Work Readiness Training, I participated in a professional networking module that focused on building meaningful connections within the tech industry. We were introduced to professional platforms such as LinkedIn and learned about the importance of networking for career growth and exposure to job opportunities.
+
+### T - Task:
+My goal was to establish a strong professional presence online, connect with industry professionals, and begin developing relationships that could support my future career in Information and Communication Technology. I aimed to create a LinkedIn profile that accurately represented my skills, academic background, and career aspirations.
+
+### A -Action:
+I created and optimized my **LinkedIn profile** by adding a professional photo, headline, summary, and details about my education, projects, and technical skills. I also connected with my classmates, lecturers, and industry professionals I met during training. To stay active, I began following tech-related pages and organizations such as Microsoft Learn and Google Developers, and I engaged by liking and commenting on relevant posts to expand my network visibility.
+
+### R - Result:
+As a result, I built a growing network of professional contacts who share similar interests and career goals. I received positive feedback on my profile and began discovering internship and job opportunities posted by my connections. This experience taught me that consistent professional networking not only improves visibility but also opens doors to mentorship, collaboration, and future employment prospects in the ICT field.
+
+---
+
+## 5. WORKPLACE ETIQUETTE
+
+### EVIDENCE
+
+### View company's policies :
+<img width="1232" height="552" alt="image" src="https://github.com/user-attachments/assets/c0febfc9-cd7d-49a1-9bfe-266396182102" />
+
+### Reflection (STAR Technique)
+
+### S - Situation:
+During the Work Readiness Training, we covered a module on Workplace Etiquette, which focused on understanding professional behaviour, communication, and ethics in a real-world work environment. The session highlighted the importance of teamwork, punctuality, respect, accountability, and maintaining a positive attitude in the workplace.
+
+### T - Task:
+My objective was to understand how to conduct myself professionally in a corporate or technical workspace. I needed to learn how to adapt to different workplace cultures, communicate effectively with colleagues and supervisors, and handle challenges while maintaining professionalism and respect.
+
+### A - Action:
+I actively engaged in group discussions and role-play activities that demonstrated appropriate workplace behaviour, such as professional email communication, dress code, time management, and conflict resolution. I also took notes on workplace policies, code of conduct, and how to approach colleagues respectfully in diverse environments. Furthermore, I reflected on my personal habits and identified areas where I could improve, such as managing deadlines more efficiently and maintaining clear, polite communication.
+
+### R - Result:
+Through this training, I developed a deeper understanding of how professionalism contributes to productivity and a positive work culture. I learned that small actions—like being punctual, showing respect, and communicating clearly—build trust and credibility in the workplace. These lessons have prepared me to enter the professional environment with confidence, self-awareness, and a commitment to ethical conduct and teamwork.
+
+---
+
+## Author
+## Name: Zenande Kalipa  
+## GitHub:[@Zenande-72](https://github.com/Zenande-72)  
+## Email: 230012035@mycput.ac.za 
+## Course: Information and Communication Technology (Applications Development)
+---
+
 
 
 
